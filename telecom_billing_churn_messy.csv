@@ -1,0 +1,31 @@
+date,new_lines_activated,lines_deactivated,deactivation_reason,region,sales_channel,notes
+2025-01-01,,,Moved to competitor,,Online,manual disconnect
+2025-01-02,74,null,Price too high,North,Online,ported out
+2025-01-03,82,,,west,Retail,
+2025-01-04,108,null,Temporary suspension,EAST,Retail,ported out
+2025-01-05,48,null,Network issues,EAST,Partner,
+2025-01-06,N/A,68,Unknown,North,,cust unhappy
+2025-01-07,,,Network issues,North,,ported out
+2025-01-08,,null,Customer service,west,,cust unhappy
+2025-01-09,,34,Moved to competitor,,,ported out
+2025-01-10,,,Temporary suspension,North,Retail,promo expired
+2025-01-11,,,Temporary suspension,south,,
+2025-01-12,N/A,,Moved to competitor,south,,
+2025-01-13,N/A,null,Temporary suspension,south,Retail,
+2025-01-14,101,,Moved to competitor,,CallCenter,
+2025-01-15,N/A,,,North,,manual disconnect
+2025-01-16,,43,Customer service,west,Retail,
+17-01-2025,,,,North,,cust unhappy
+2025-01-18,,,Moved to competitor,,,promo expired
+2025-01-19,67,,Customer service,south,Online,ported out
+2025-01-20,15,62,,south,Retail,manual disconnect
+2025-01-21,,null,No longer needed,,,manual disconnect
+2025-01-22,N/A,null,,west,Online,ported out
+2025-01-23,48,,No longer needed,North,Online,manual disconnect
+2025-01-24,34,,Network issues,,Retail,cust unhappy
+2025-01-25,,null,No longer needed,west,CallCenter,ported out
+2025-01-26,N/A,null,Unknown,west,,promo expired
+2025-01-27,87,null,Temporary suspension,North,Retail,ported out
+2025-01-28,,,Customer service,west,Retail,promo expired
+2025-01-29,115,6,Network issues,south,Retail,
+2025-01-30,N/A,,Unknown,North,CallCenter,cust unhappy
