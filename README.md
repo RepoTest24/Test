@@ -52,7 +52,7 @@ This project analyzes telecom billing data to identify customer churn patterns b
 
 
 
-## Project Structure
+## Project Structure(Subject to revision)
 
 
 
